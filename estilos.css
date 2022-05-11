@@ -1,0 +1,19 @@
+body {
+  background-color: bisque;
+}
+
+header {
+  height: 200px;
+  width: 100%;
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+h1 span {
+  color: yellow;
+}
+/*# sourceMappingURL=estilos.css.map */

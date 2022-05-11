@@ -1,0 +1,22 @@
+$color1: violet;
+$color2: blue;
+
+body{
+    background-color: bisque;
+}
+
+header{
+    height: 200px;
+    width: 100%;
+    background-color: black;
+}
+
+h1{
+    color: white;
+    text-align: center;
+
+
+    span{
+        color: yellow;    
+    }
+}
